@@ -11,7 +11,7 @@ The Note App allows users to create, edit, and delete notes directly from the we
 To set up the project locally, follow these steps:
 
  **Clone the repository:**
-git clone https://github.com/your-username/note-app.git
+git clone (https://github.com/Talyaakuvvet/NoteApp)
 Navigate to the project directory:
 cd note-app
 
