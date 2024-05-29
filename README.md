@@ -28,13 +28,13 @@ python manage.py migrate
 Run the development server:
 python manage.py runserver
 
-  **Usage
+  **Usage**
 Open your web browser and navigate to http://127.0.0.1:8000/.
 To add a note, click the + button.
 To delete a note, double-click on the note and confirm the deletion.
 Notes are saved automatically in the browser's local storage.
 
-  **Features
+  **Features**
 Add New Notes: Click the + button to add a new note.
 Edit Notes: Click on an existing note to edit its content.
 Delete Notes: Double-click on a note to delete it with a confirmation dialog.
