@@ -2,6 +2,13 @@
 
 A simple note-taking application built with Django and JavaScript.
 
+##Screenshots
+![image](https://github.com/Talyaakuvvet/NoteApp/assets/130650055/5eab2e68-a4a1-4e90-9e2d-f437f04dc5c3)
+![image](https://github.com/Talyaakuvvet/NoteApp/assets/130650055/4f0d3bf0-40ad-43d8-8aec-817f4c19dc46)
+![image](https://github.com/Talyaakuvvet/NoteApp/assets/130650055/5971e3e4-2031-4493-b05b-cc069e7166c9)
+
+
+
 ## Description
 
 The Note App allows users to create, edit, and delete notes directly from the web interface. The notes are stored locally in the browser using `localStorage`.
